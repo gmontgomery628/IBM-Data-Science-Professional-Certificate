@@ -14,4 +14,5 @@ This course provides an introduction to the common programming languages used by
 * Understanding of how IBM Watson Studio and other IBM data science tools can be used by data scientists.
 
 ## Certificates
+To verify the certificates, click the images to follow the links.
 [![Credly badge](https://github.com/gmontgomery628/IBM-Data-Science-Professional-Certificate/blob/main/images/credly_badge.png)](https://www.credly.com/badges/0d9af969-ec3c-40a3-8379-1a1b51598820/public_url)
