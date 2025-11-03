@@ -15,13 +15,7 @@ An introductory course on the core concepts, history, and real-world application
 
 ## Key Skills Learned
 
-* Explain what data science is and why it matters today
-
-* Identify diverse pathways into a data science career
-
-* Understand how organizations use data science for insight and prediction
-
-* Summarize professional advice from experienced data scientists
+* An overall understanding of what data science is, and why it is changing the way we do business and research.
 
 
 ## Certificates
